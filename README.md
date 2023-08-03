@@ -42,4 +42,3 @@ You can see all restrictions related to site support in [wiki](https://github.co
 
 ![example btn](https://github.com/ilyhalight/voice-over-translation/blob/master/img/example.jpg "btn")
 
-*: Запрещена на территории РФ
